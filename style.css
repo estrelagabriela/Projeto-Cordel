@@ -1,15 +1,8 @@
 @charset "UTF-08";
 @import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Lobster&family=Passion+One:wght@400;700;900&display=swap');
-.passion-one-bold {
-    font-family: "Passion One", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-}
-.sriracha-regular {
-    font-family: "Sriracha", cursive;
-    font-weight: 400;
-    font-style: normal;
-}
+
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Lobster&family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
+
 body{
     background-color: black;
     margin: 0%;
@@ -26,19 +19,20 @@ nav{
     margin:auto;
     text-align: center;
     padding-bottom: 2px;
-    margin-top: 0%;
+    margin-top: 50px;
+    margin-bottom: 50px;
 
 }
 nav > h1 {   
     color: white;
     font-family: "Passion One", sans-serif;
-    margin-bottom: -15px;
-    font-size: 66px;
+    margin-bottom: 5px;
+    font-size: 50px;
 }
 h3{
     color: white;
     margin-bottom: 20px;
-    font-size: 16px;
+    font-size: 1em;
 }
 h3 > a {
     text-decoration: none;
