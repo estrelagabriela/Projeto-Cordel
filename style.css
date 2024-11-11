@@ -62,6 +62,7 @@ article{
     background-size: cover;
     background-attachment: fixed;
     background-position: right center;
+    box-shadow: inset 3px 3px 10px 0px black;
 }
 #paragrafo05 > p{
     border: 1px solid rgba(0, 0, 0, 0.123);
@@ -77,6 +78,7 @@ article{
     background-size: cover;
     background-attachment: fixed;
     background-position: right center;
+    box-shadow: inset 3px 3px 10px 0px black;
 }
 footer{
     color: white;
